@@ -20,7 +20,7 @@ My first SQL project — analyzing a small retail sales dataset using SQL Server
 
 ## File
 
-- [`sales_analysis.sql`](./sales_analysis.sql) — the full script, organized section by section with comments.
+- [`sales_analysis.sql`](./sql_sales-analysis.sql) — the full script, organized section by section with comments.
 
 ## Notes
 This was a learning project, so a few queries include an "another version" — a second attempt at solving the same question after finding a cleaner approach (e.g. using `NULLIF` to avoid divide-by-zero errors).

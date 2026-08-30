@@ -5,14 +5,29 @@ My first SQL project — analyzing a small retail sales dataset using SQL Server
 
 ## What this project covers
 
-- **Database & table design** — creating a `Sales` table and inserting sample data
-- **Aggregate analysis** — total revenue, total profit, and profit margin
-- **Ranking** — top 3 selling products, top 5 highest sales
-- **Grouping** — sales by region, by category, and by salesperson
-- **Time-based analysis** — monthly sales trend, month-over-month growth, using `GROUP BY` 
-- **Business questions** — best salesperson, products with low profit margin, average order value, repeat customers per salesperson
-- **Data manipulation** — `UPDATE` statements, adding a new column with `ALTER TABLE`
-- **Filtering** — `WHERE`, `BETWEEN`, multiple conditions
+- **Database & table design** — creating a `Sales` table and inserting sample data  
+  [View result](./01_sales_table.png)
+
+- **Aggregate analysis** — total revenue, total profit, and profit margin  
+  [View result](./02_total_revenue.png)
+
+- **Ranking** — top 3 selling products, top 5 highest sales  
+  [View results](./03_top_3_products.png) · [Top 5 sales](./12_top_5_sales.png)
+
+- **Grouping** — sales by region, by category, and by salesperson  
+  [View sales by region](./04_sales_by_region.png) · [View category performance](./07_category_performance.png)
+
+- **Time-based analysis** — monthly sales trend, month-over-month growth, using `GROUP BY`  
+  [View monthly sales trend](./05_monthly_sales_trend.png) · [View month-over-month growth](./11_month_over_month.png)
+
+- **Business questions** — best salesperson, products with low profit margin, average order value, repeat customers per salesperson  
+  [Best salesperson](./06_best_salesperson.png) · [Low profit products](./08_low_profit_products.png) · [Average order value](./09_average_order_value.png) · [Repeat customers](./10_repeat_customers.png)
+
+- **Data manipulation** — `UPDATE` statements, adding a new column with `ALTER TABLE`  
+  [View results](./13_data_manipulation.png)
+
+- **Filtering** — `WHERE`, `BETWEEN`, multiple conditions  
+  [View date/filter results](./14_date_based_queries.png)
 
 ## Skills practiced
 
